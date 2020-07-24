@@ -117,7 +117,7 @@ display: block;
     font-family: 'HelveticaNeueBold';
     text-shadow: 0.5px 0.9px 0 rgba(0, 0, 0, 0.4);
     font-size: 11px;
-    line-height: 19px;
+    line-height: 20px;
     color: #a8c2d8;
     min-width: 30px;
     height: 20px;
@@ -142,5 +142,5 @@ div.menu__link{
      margin-right: 72px;
  }
 .messages__info{
-    margin: 10px 10px 0px 35px;
+    margin: 9px 10px 0px 35px;
 }
